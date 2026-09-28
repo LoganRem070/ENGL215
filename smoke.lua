@@ -14,7 +14,7 @@ local v, r = {}, 45         --#--
     --#--
 the, fires, burn = "bright", "in the", "morning"
                     --#--
-function smoke(into, the, air)                    --#--
+function smoke(rises, into, the, air)                    --#--
         --#--
     for i=1, n(0, 4) do  --#--
         v[n(0, r)] = true           --#--
