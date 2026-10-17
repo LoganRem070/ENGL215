@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    Holy Bible
+                </title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    S.S. Teacher's Edition
+                </edition>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <persName>Logan Rembisz</persName>
+                </respStmt>
+            </editionStmt>
+            <extent>
+                Page 6 and following page, ### words
+            </extent>
+            <publicationStmt>
+                <publisher>Oxford (UP)</publisher>
+                <pubPlace>London</pubPlace>
+                <date>1889</date>
+            </publicationStmt>
+            <msDesc>
+                <msIdentifier>
+                    <place>Rochester Institute of Technology</place>
+                    <repository>Albers-Moris Teaching Collection</repository>
+                    <idno>Item 2</idno>
+                </msIdentifier>
+            </msDesc>
+            <sourceDesc>
+                <bibl>
+                    Holy Bible: S.S. Teacher's Edition, The. 1889. Albers-Morris Teaching Collection, Rochester Institute of Technology, Item 2.
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Text encoded as part of Major Project 2 for RIT's ENGL-215 in Fall of 2026</p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date>October 2026</date>
+            </creation>
+            <langUsage>
+                <language ident="en-GB" usage="100">British English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+
+            <!-- PAGE 6 -->
+            <pb n="6" xml:id="p6"/>
+
+            <div type="section" xml:id="epistle-deicatory">
+                <head rend="align(center)">THE EPISTLE DEDICATORY.</head>
+                <p>
+                    duced by Popish Persons at home or abroad, who therefore will malign us, because we are<lb/>
+                    poor instruments to make God's holy Truth to be yet more and more known unto the people,<lb/>
+                    whom they desire still to keep in ign<damage agent="smudge">o</damage>rance and darkness; or if, on the other we shall<lb/>
+                    be maligned by selfconceited Brethren, who run their own ways, and give liking onto nothing,<lb/>
+                    but what is framed by themselves, and hammered on their anvil; we may rest secure, sup-<lb/>
+                    ported within by the truth and innocency of a good conscience, having walked the ways of<lb/>
+                    simplicity and integrity, as before the Lord; and sustained without b<damage agent="smudge">y</damage> the powerful pro-<lb/>
+                    tection of Your Majestry's grace and favour, which will ever give countenance to honest and<lb/>
+                    christian endeavours a<damage agent="stain">gai</damage>nst bitter censures and uncharitable imputations.
+                </p>
+                
+                <lb/>
+
+                <p>
+                    The Lord of heaven and earth bless Your Majestry with many and happy days, that, as<lb/>
+                    his heavenly hand hath enriched Your Highness with many singular and extraordinary<lb/>
+                    graces, so You may be the wonder of the world in this latter age for happiness and true<lb/>
+                    felicity, to the honour of that great GOD, and the good of his Church, through Jesus<lb/>
+                    Christ our Lord and only Saviour.
+                </p>
+            </div>
+
+            <br/>
+            <br/>
+
+            <div type="section" xml:id="table-of-contents-header">
+                
+            </div>
+
+        </body>
+    </text>
+</TEI>
