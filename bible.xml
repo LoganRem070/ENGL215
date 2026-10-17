@@ -58,6 +58,7 @@
 
             <div type="section" xml:id="epistle-deicatory">
                 <head rend="align(center)">THE EPISTLE DEDICATORY.</head>
+                <br/>
                 <p>
                     duced by Popish Persons at home or abroad, who therefore will malign us, because we are<lb/>
                     poor instruments to make God's holy Truth to be yet more and more known unto the people,<lb/>
@@ -85,7 +86,172 @@
             <br/>
 
             <div type="section" xml:id="table-of-contents-header">
-                
+                <head rend="align(center)">THE NAMES AND ORDER</head>
+                <p rend="align(center)">OF ALL THE</p>
+                <head rend="align(center)">BOOKS OF THE OLD AND NEW TESTAMENT,</head>
+                <p rend="align(center)">WITH THE NUMBER OF THEIR CHAPTERS.</p>
+            </div>
+
+            <br/>
+
+            <div type="section" xml:id="old-testament-contents">
+                <head rend="align(center)">THE BOOKS OF THE OLD TESTAMENT.</head>
+                <table rows="14" cols="9">
+                    <row role="label">
+                        <cell role="label"/>
+                        <cell role="label" rend="align(right)">PAGE.</cell>
+                        <cell role="label" rend="align(right)">CHAPS.</cell>
+                        <cell role="label"/>
+                        <cell role="label" rend="align(right)">PAGE.</cell>
+                        <cell role="label" rend="align(right)">CHAPS.</cell>
+                        <cell role="label"/>
+                        <cell role="label" rend="align(right)">PAGE.</cell>
+                        <cell role="label" rend="align(right)">CHAPS.</cell>
+                    </row>
+                    <row role="data">
+                        <cell role="data">GENESIS</cell>
+                        <cell role="data">7</cell>
+                        <cell role="data">50</cell>
+                        <cell role="data">II. Chronicles</cell>
+                        <cell role="data">387</cell>
+                        <cell role="data">36</cell>
+                        <cell role="data">Daniel</cell>
+                        <cell role="data">712</cell>
+                        <cell role="data">12</cell>
+                    </row>
+                    <row role="data">
+                        <cell role="data">Exodus</cell>
+                        <cell role="data">53</cell>
+                        <cell role="data">40</cell>
+                        <cell role="data"><damage agent="stain">Ezra</damage></cell>
+                        <cell role="data">419</cell>
+                        <cell role="data">10</cell>
+                        <cell role="data">Hosea</cell>
+                        <cell role="data">726</cell>
+                        <cell role="data">14</cell>
+                    </row>
+                    <row role="data">
+                        <cell role="data">Leviticus</cell>
+                        <cell role="data">93</cell>
+                        <cell role="data">27</cell>
+                        <cell role="data"><damage agent="stain">Nehemiah</damage></cell>
+                        <cell role="data">428</cell>
+                        <cell role="data">13</cell>
+                        <cell role="data">Joel</cell>
+                        <cell role="data">733</cell>
+                        <cell role="data">3</cell>
+                    </row>
+                    <row role="data">
+                        <cell role="data">Numbers</cell>
+                        <cell role="data">122</cell>
+                        <cell role="data">36</cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                    </row>
+                    <row role="data">
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                    </row>
+                    <row role="data">
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                    </row>
+                    <row role="data">
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                    </row>
+                    <row role="data">
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                    </row>
+                    <row role="data">
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                    </row>
+                    <row role="data">
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                    </row>
+                    <row role="data">
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                    </row>
+                    <row role="data">
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                    </row>
+                    <row role="data">
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                        <cell role="data"></cell>
+                    </row>
+                </table>
             </div>
 
         </body>
