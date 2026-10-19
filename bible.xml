@@ -145,12 +145,130 @@
                         <cell role="data">Numbers</cell>
                         <cell role="data">122</cell>
                         <cell role="data">36</cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
+                        <cell role="data">Es<damage agent="stain">ther</damage></cell>
+                        <cell role="data">442</cell>
+                        <cell role="data">10</cell>
+                        <cell role="data">Amos</cell>
+                        <cell role="data">735</cell>
+                        <cell role="data">9</cell>
+                    </row>
+                    <row role="data">
+                        <cell role="data">Deuteronomy</cell>
+                        <cell role="data">163</cell>
+                        <cell role="data">34</cell>
+                        <cell role="data">Job</cell>
+                        <cell role="data">449</cell>
+                        <cell role="data">42</cell>
+                        <cell role="data">Obadiah</cell>
+                        <cell role="data">741</cell>
+                        <cell role="data">1</cell>
+                    </row>
+                    <row role="data">
+                        <cell role="data">Joshua</cell>
+                        <cell role="data">197</cell>
+                        <cell role="data">24</cell>
+                        <cell role="data">Pslams</cell>
+                        <cell role="data">473</cell>
+                        <cell role="data">150</cell>
+                        <cell role="data">Jonah</cell>
+                        <cell role="data">742</cell>
+                        <cell role="data">4</cell>
+                    </row>
+                    <row role="data">
+                        <cell role="data">Judges</cell>
+                        <cell role="data">220</cell>
+                        <cell role="data">21</cell>
+                        <cell role="data">Proverbs</cell>
+                        <cell role="data">533</cell>
+                        <cell role="data">31</cell>
+                        <cell role="data">Micah</cell>
+                        <cell role="data">743</cell>
+                        <cell role="data">7</cell>
+                    </row>
+                    <row role="data">
+                        <cell role="data">Ruth</cell>
+                        <cell role="data">243</cell>
+                        <cell role="data">4</cell>
+                        <cell role="data">Ecclesiastes</cell>
+                        <cell role="data">553</cell>
+                        <cell role="data">12</cell>
+                        <cell role="data">Nahum</cell>
+                        <cell role="data">747</cell>
+                        <cell role="data">3</cell>
+                    </row>
+                    <row role="data">
+                        <cell role="data"><num type="roman" value="1">I.</num> Samuel</cell>
+                        <cell role="data">246</cell>
+                        <cell role="data">31</cell>
+                        <cell role="data">Song of Solomon</cell>
+                        <cell role="data">560</cell>
+                        <cell role="data">8</cell>
+                        <cell role="data">Habakkuk</cell>
+                        <cell role="data">749</cell>
+                        <cell role="data">3</cell>
+                    </row>
+                    <row role="data">
+                        <cell role="data"><num type="roman" value="2">II.</num> Samuel</cell>
+                        <cell role="data">277</cell>
+                        <cell role="data">24</cell>
+                        <cell role="data">Isaiah</cell>
+                        <cell role="data">564</cell>
+                        <cell role="data">66</cell>
+                        <cell role="data">Zephaniah</cell>
+                        <cell role="data">751</cell>
+                        <cell role="data">3</cell>
+                    </row>
+                    <row role="data">
+                        <cell role="data"><num type="roman" value="1">I.</num> Kings</cell>
+                        <cell role="data">302</cell>
+                        <cell role="data">22</cell>
+                        <cell role="data">Jeremiah</cell>
+                        <cell role="data">609</cell>
+                        <cell role="data">52</cell>
+                        <cell role="data">Haggai</cell>
+                        <cell role="data">753</cell>
+                        <cell role="data">2</cell>
+                    </row>
+                    <row role="data">
+                        <cell role="data"><num type="roman" value="2">II.</num> Kings</cell>
+                        <cell role="data">332</cell>
+                        <cell role="data">25</cell>
+                        <cell role="data">Lamentations</cell>
+                        <cell role="data">661</cell>
+                        <cell role="data">5</cell>
+                        <cell role="data">Zechariah</cell>
+                        <cell role="data">754</cell>
+                        <cell role="data">14</cell>
+                    </row>
+                    <row role="data">
+                        <cell role="data"><num type="roman" value="1">I.</num> Chronicles</cell>
+                        <cell role="data">360</cell>
+                        <cell role="data">29</cell>
+                        <cell role="data">Ezekiel</cell>
+                        <cell role="data">665</cell>
+                        <cell role="data">48</cell>
+                        <cell role="data">Malachi</cell>
+                        <cell role="data">762</cell>
+                        <cell role="data">4</cell>
+                    </row>
+                </table>
+            </div>
+
+            <br/>
+
+            <div type="section" xml:id="old-testament-contents">
+                <head rend="align(center)">THE BOOKS OF THE NEW TESTAMENT.</head>
+                <table rows="10" cols="9">
+                    <row role="label">
+                        <cell role="label"/>
+                        <cell role="label" rend="align(right)">PAGE.</cell>
+                        <cell role="label" rend="align(right)">CHAPS.</cell>
+                        <cell role="label"/>
+                        <cell role="label" rend="align(right)">PAGE.</cell>
+                        <cell role="label" rend="align(right)">CHAPS.</cell>
+                        <cell role="label"/>
+                        <cell role="label" rend="align(right)">PAGE.</cell>
+                        <cell role="label" rend="align(right)">CHAPS.</cell>
                     </row>
                     <row role="data">
                         <cell role="data"></cell>
