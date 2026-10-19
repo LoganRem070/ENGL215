@@ -197,7 +197,7 @@
                         <cell role="data">3</cell>
                     </row>
                     <row role="data">
-                        <cell role="data"><num type="roman" value="1">I.</num> Samuel</cell>
+                        <cell role="data"><num type="roman" value="1">I</num>. Samuel</cell>
                         <cell role="data">246</cell>
                         <cell role="data">31</cell>
                         <cell role="data">Song of Solomon</cell>
@@ -208,7 +208,7 @@
                         <cell role="data">3</cell>
                     </row>
                     <row role="data">
-                        <cell role="data"><num type="roman" value="2">II.</num> Samuel</cell>
+                        <cell role="data"><num type="roman" value="2">II</num>. Samuel</cell>
                         <cell role="data">277</cell>
                         <cell role="data">24</cell>
                         <cell role="data">Isaiah</cell>
@@ -219,7 +219,7 @@
                         <cell role="data">3</cell>
                     </row>
                     <row role="data">
-                        <cell role="data"><num type="roman" value="1">I.</num> Kings</cell>
+                        <cell role="data"><num type="roman" value="1">I</num>. Kings</cell>
                         <cell role="data">302</cell>
                         <cell role="data">22</cell>
                         <cell role="data">Jeremiah</cell>
@@ -230,7 +230,7 @@
                         <cell role="data">2</cell>
                     </row>
                     <row role="data">
-                        <cell role="data"><num type="roman" value="2">II.</num> Kings</cell>
+                        <cell role="data"><num type="roman" value="2">II</num>. Kings</cell>
                         <cell role="data">332</cell>
                         <cell role="data">25</cell>
                         <cell role="data">Lamentations</cell>
@@ -241,7 +241,7 @@
                         <cell role="data">14</cell>
                     </row>
                     <row role="data">
-                        <cell role="data"><num type="roman" value="1">I.</num> Chronicles</cell>
+                        <cell role="data"><num type="roman" value="1">I</num>. Chronicles</cell>
                         <cell role="data">360</cell>
                         <cell role="data">29</cell>
                         <cell role="data">Ezekiel</cell>
@@ -271,103 +271,103 @@
                         <cell role="label" rend="align(right)">CHAPS.</cell>
                     </row>
                     <row role="data">
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
+                        <cell role="data"><damage agent="stain">MA</damage>TTHEW</cell>
+                        <cell role="data">767</cell>
+                        <cell role="data">28</cell>
+                        <cell role="data">Ephesians</cell>
+                        <cell role="data">939</cell>
+                        <cell role="data">6</cell>
+                        <cell role="data">To the Hebrews</cell>
+                        <cell role="data">962</cell>
+                        <cell role="data">13</cell>
                     </row>
                     <row role="data">
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
+                        <cell role="data">Mark</cell>
+                        <cell role="data">797</cell>
+                        <cell role="data">16</cell>
+                        <cell role="data">Philippians</cell>
+                        <cell role="data">944</cell>
+                        <cell role="data">4</cell>
+                        <cell role="data">Epistle of James</cell>
+                        <cell role="data">971</cell>
+                        <cell role="data">5</cell>
                     </row>
                     <row role="data">
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
+                        <cell role="data">Luke</cell>
+                        <cell role="data">816</cell>
+                        <cell role="data">24</cell>
+                        <cell role="data">Colossians</cell>
+                        <cell role="data">947</cell>
+                        <cell role="data">4</cell>
+                        <cell role="data"><num type="roman" value="1">I</num>. Peter</cell>
+                        <cell role="data">974</cell>
+                        <cell role="data">5</cell>
                     </row>
                     <row role="data">
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
+                        <cell role="data">John</cell>
+                        <cell role="data">848</cell>
+                        <cell role="data">21</cell>
+                        <cell role="data"><num type="roman" value="1">I</num>. Thessalonians</cell>
+                        <cell role="data">950</cell>
+                        <cell role="data">5</cell>
+                        <cell role="data"><num type="roman" value="2">II</num>. Peter</cell>
+                        <cell role="data">978</cell>
+                        <cell role="data">3</cell>
                     </row>
                     <row role="data">
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
+                        <cell role="data">The Acts</cell>
+                        <cell role="data">872</cell>
+                        <cell role="data">28</cell>
+                        <cell role="data"><num type="roman" value="2">II</num>. Thessalonians</cell>
+                        <cell role="data">952</cell>
+                        <cell role="data">3</cell>
+                        <cell role="data"><num type="roman" value="1">I</num>. John</cell>
+                        <cell role="data">980</cell>
+                        <cell role="data">5</cell>
                     </row>
                     <row role="data">
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
+                        <cell role="data">Epistle to Romans</cell>
+                        <cell role="data">903</cell>
+                        <cell role="data">16</cell>
+                        <cell role="data"><num type="roman" value="1">I</num>. Timothy</cell>
+                        <cell role="data">954</cell>
+                        <cell role="data">6</cell>
+                        <cell role="data"><num type="roman" value="2">II</num>. John</cell>
+                        <cell role="data">984</cell>
+                        <cell role="data">1</cell>
                     </row>
                     <row role="data">
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
+                        <cell role="data"><num type="roman" value="1">I</num>. Corinthians</cell>
+                        <cell role="data">915</cell>
+                        <cell role="data">16</cell>
+                        <cell role="data"><num type="roman" value="2">II</num>. Timothy</cell>
+                        <cell role="data">957</cell>
+                        <cell role="data">4</cell>
+                        <cell role="data"><num type="roman" value="3">III</num>. John</cell>
+                        <cell role="data">984</cell>
+                        <cell role="data">1</cell>
                     </row>
                     <row role="data">
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
+                        <cell role="data"><num type="roman" value="2">II</num>. Corinthians</cell>
+                        <cell role="data">927</cell>
+                        <cell role="data">13</cell>
+                        <cell role="data">Titus</cell>
+                        <cell role="data">960</cell>
+                        <cell role="data">3</cell>
+                        <cell role="data">Jude</cell>
+                        <cell role="data">985</cell>
+                        <cell role="data">1</cell>
                     </row>
                     <row role="data">
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
-                        <cell role="data"></cell>
+                        <cell role="data">Galatians</cell>
+                        <cell role="data">935</cell>
+                        <cell role="data">6</cell>
+                        <cell role="data">Philemon</cell>
+                        <cell role="data">961</cell>
+                        <cell role="data">1</cell>
+                        <cell role="data">Revelation</cell>
+                        <cell role="data"><damage agent="smudge">9</damage>86</cell>
+                        <cell role="data">22</cell>
                     </row>
                 </table>
             </div>
