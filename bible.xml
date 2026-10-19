@@ -16,7 +16,7 @@
                 </respStmt>
             </editionStmt>
             <extent>
-                Page 6 and following page, ### words
+                Page 6, 240 words outside the tables, 210 in the tables, 450 total words
             </extent>
             <publicationStmt>
                 <publisher>Oxford (UP)</publisher>
@@ -74,10 +74,10 @@
                 <lb/>
 
                 <p>
-                    The Lord of heaven and earth bless Your Majestry with many and happy days, that, as<lb/>
+                    <damage agent="stain">T</damage>he Lord of heaven and earth bless Your Majestry with many and happy days, that, as<lb/>
                     his heavenly hand hath enriched Your Highness with many singular and extraordinary<lb/>
                     graces, so You may be the wonder of the world in this latter age for happiness and true<lb/>
-                    felicity, to the honour of that great GOD, and the good of his Church, through Jesus<lb/>
+                    felicity, to the ho<damage agent="stain">no</damage>ur of that great GOD, and the good of his Church, through Jesus<lb/>
                     Christ our Lord and only Saviour.
                 </p>
             </div>
@@ -89,7 +89,7 @@
                 <head rend="align(center)">THE NAMES AND ORDER</head>
                 <p rend="align(center)">OF ALL THE</p>
                 <head rend="align(center)">BOOKS OF THE OLD AND NEW TESTAMENT,</head>
-                <p rend="align(center)">WITH THE NUMBER OF THEIR CHAPTERS.</p>
+                <p rend="align(center)"><damage agent="stain">WITH</damage> THE NUMBER OF THEIR CHAPTERS.</p>
             </div>
 
             <br/>
