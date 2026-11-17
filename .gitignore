@@ -1,2 +1,52 @@
 ./vscode/*
 .vscode/settings.json
+
+# dependencies
+node_modules/
+site/node_modules/
+
+# Expo
+.expo/
+site/.expo/
+dist/
+site/dist/
+web-build/
+site/web-build/
+expo-env.d.ts
+site/expo-env.d.ts
+
+# Native
+.kotlin/
+site/.gradle/
+site/.kotlin/
+*.orig.*
+site/*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+.env*.local
+
+# typescript
+*.tsbuildinfo
+
+example
+
+# generated native folders
+/site/ios
+/site/android
