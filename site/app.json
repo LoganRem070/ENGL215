@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "site",
+    "name": "ENGL-215",
     "slug": "site",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -21,7 +21,7 @@
     },
     "web": {
       "output": "static",
-      "favicon": "./assets/images/favicon.png"
+      "favicon": "./assets/images/RIT-00071A_RGB_whiteTM.png"
     },
     "plugins": [
       "expo-router",

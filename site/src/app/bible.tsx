@@ -1,4 +1,5 @@
 import { Image } from 'expo-image';
+import type { Metadata } from 'expo-router/server';
 import { useEffect, useState } from 'react';
 import { Platform, ScrollView, StyleSheet } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
@@ -8,6 +9,10 @@ import { ThemedView } from '@/components/themed-view';
 import { WebBadge } from '@/components/web-badge';
 import { BottomTabInset, MaxContentWidth, Spacing } from '@/constants/theme';
 import { useTheme } from '@/hooks/use-theme';
+
+export function generateMetadata(): Metadata {
+  return { title: 'ENGL-215' };
+}
 
 export default function TabTwoScreen() {
   const [code, setCode] = useState<string | null>(null);
